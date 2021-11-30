@@ -1,0 +1,20 @@
+.table-align {
+  left: 2%;
+}
+
+.table-wrap {
+  left: 2%;
+  border: 3px solid black;
+  height: 100%;
+  max-width: 96%;
+  overflow-y: auto;
+}
+
+.table-row {
+  height: 75vh;
+}
+
+.textbox {
+  width: 100%;
+}
+
